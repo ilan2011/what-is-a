@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+ text-align: center;
+ margin-top: 10vh;
+}
+
+.input {
+display: flex;
+justify-content: center;
+}
+
+
+.search{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.input-group-append{
+  text-align: center;
+}
+
+.results{
+  text-align: center;
+  margin-top: 5em;
+}
